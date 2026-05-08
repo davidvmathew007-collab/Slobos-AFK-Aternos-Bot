@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "davidrizzly.aternos.me",
-    "port": 56417,
+    "ip": "casp-2024.aternos.me",
+    "port": 23980,
     "version": "",
     "try-creative": false
   },
